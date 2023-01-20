@@ -1,4 +1,4 @@
-/* eslint-disable no-undef */
+
 // imports
 
 const express = require("express");
